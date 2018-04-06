@@ -84,3 +84,8 @@ deploy:
   pass: ithle1
   remotePath: /lagring/www/blogg.ihinda.com/
   port: 22
+
+
+addlink:
+  before_text: hello # text before the post link
+  after_text: bye # text after the post link
