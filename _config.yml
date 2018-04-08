@@ -89,3 +89,18 @@ deploy:
 addlink:
   before_text: hello # text before the post link
   after_text: bye # text after the post link
+
+  # Hexo localsearch
+search:
+  path: search.xml
+  field: all
+
+  # Hexo generator feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
