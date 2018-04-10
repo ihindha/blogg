@@ -1,0 +1,37 @@
+index:
+    home: 'hem'
+    search: 'Sök'
+    archive: 'arkiv'
+    category: 'category'
+    uncategorized: 'okategoriserat'
+    tag: 'tag'
+nav:
+    next: 'Nästa'
+    prev: 'Föregående'
+    older: 'Äldre'
+    newer: 'Nyare'
+widget:
+    recents: 'senaste'
+    archives: 'arkiv'
+    categories: 'kategorier'
+    links: 'länkar'
+    tags: 'taggar'
+    tag_cloud: 'taggmåln'
+article:
+    more: 'Läs vidare'
+    comments: 'Komentarer'
+    share: 'Dela'
+    catalogue: 'Katalog'
+profile:
+    follow: 'Följ'
+    post: 'inlägg'
+    tag: 'tag'
+    posts: 'inlägg'
+    tags: 'taggar'
+insight:
+    hint: 'Type something...'
+    posts: 'Posts'
+    pages: 'Pages'
+    categories: 'Categories'
+    tags: 'Tags'
+    untitled: '(Untitled)'
