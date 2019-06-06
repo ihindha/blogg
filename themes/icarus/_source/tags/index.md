@@ -1,3 +1,0 @@
-title: "Tagar"
-layout: "tags"
----
