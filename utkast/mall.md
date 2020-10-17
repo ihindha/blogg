@@ -1,8 +1,7 @@
 ---
-title: Kategoristruktur färdig ...
-categories:
-  - [Meta, Blogg]
-tags: [Kategorier]
-date: 2018-04-13 01:42:46
+title: ...
+categories: 
+tags: 
+date: 2018-10-xx 23:59
 ---
 
